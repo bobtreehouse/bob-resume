@@ -1,7 +1,8 @@
 # Bob Trieste — Resume
 
 This repository contains my professional resume.  
-It serves as a simple, shareable location for accessing my background in commercial and investment banking technology. On the left-hand side panel click the PDF file to view.
+
+It serves as a shareable location for accessing my background in capital markets and technology. My roles have included both those in front-office securities sales and trading (buy side and sell side) as well as my roles as a full stack software engineer. 
 
 ---
 
