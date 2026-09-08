@@ -1,7 +1,7 @@
 # Bob Trieste — Resume
 
 This repository contains my professional resume.  
-It serves as a simple, shareable location for accessing my background in commercial and investment banking technology.
+It serves as a simple, shareable location for accessing my background in commercial and investment banking technology. On the left-hand side panel click the PDF file to view.
 
 ---
 
