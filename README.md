@@ -42,7 +42,7 @@ If you are unable to open the PDF version in this repository due to corporate se
 # Full Résumé (Markdown Version)
 
 # **Robert M. Trieste**  
-**15 Woodcut Lane, Manhasset, NY 11030** • **917‑806‑6333**  
+**Manhasset, NY** • **917‑806‑6333**  
 [linkedin.com/in/bobtrieste](https://linkedin.com/in/bobtrieste) • https://github.com/bobtreehouse  
 **bobtrieste@gmail.com**
 
@@ -130,13 +130,13 @@ Python for Data Analysis and Visualization. Enterprise Java.
 
 ## **Personal**
 
-- Married, father of three: Eliza, Keira, and Duke.  
+- Manhasset Cars and Coffee car club founder.  
 - Manhasset Youth Wrestling Head Coach (2013–2024).  
 - Ultrarunner: Leadville 50‑mile finisher; Wild Goose 100‑mile finisher.  
-- Photography and web design — http://www.triestefamily.com.
+- Photography and web design.
 
 ---
 
 ### **Contact**
-**Robert M. Trieste** • 15 Woodcut Lane, Manhasset, NY 11030 • 917‑806‑6333 • **bobtrieste@gmail.com**
+**Robert M. Trieste** • Manhasset, NY 11030 • 917‑806‑6333 • **bobtrieste@gmail.com**
 
