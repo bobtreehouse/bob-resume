@@ -42,7 +42,7 @@ If you are unable to open the PDF version in this repository due to corporate se
 # Full Résumé (Markdown Version)
 
 # **Robert M. Trieste**  
-**Manhasset, NY** • **917‑806‑6333**  
+**Manhasset, New York** • **917‑806‑6333**  
 [linkedin.com/in/bobtrieste](https://linkedin.com/in/bobtrieste) • https://github.com/bobtreehouse  
 **bobtrieste@gmail.com**
 
@@ -138,5 +138,5 @@ Python for Data Analysis and Visualization. Enterprise Java.
 ---
 
 ### **Contact**
-**Robert M. Trieste** • Manhasset, NY 11030 • 917‑806‑6333 • **bobtrieste@gmail.com**
+**Robert M. Trieste** • Manhasset, New York 11030 • 917‑806‑6333 • **bobtrieste@gmail.com**
 
